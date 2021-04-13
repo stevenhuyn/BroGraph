@@ -13,7 +13,7 @@ It caught on like a bug.
 
 I wanted to know who was the perpetrator of these "bro"s.
 
-Thus this notebook was borne.
+Thus this notebook was born.
 
 **This notebook generates a video of the usages of that word over time**
 
