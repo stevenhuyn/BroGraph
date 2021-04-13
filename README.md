@@ -17,13 +17,14 @@ Thus this notebook was born.
 
 **This notebook generates a video of the usages of that word over time**
 
-## Installation
+## Running
 
 1. Download [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 2. Export the `[channelName].json` file with the above program and place in root folder
-3. `pip install -r requirements` (Makes use of Python Package bar_chart_race)
+3. In the root `pip install -r REQUIREMENTS.txt` (Makes use of Python Package bar_chart_race)
 4. Have [ffmpeg](https://www.ffmpeg.org/)
-5. Run the notebook and fill in variables for the word to track and the `[channelName].json` generated from the exporter
+5. Open notebook and fill in variables for the word to track and the `[channelName].json` generated from the exporter
+6. Run all cells and a video `bro.mp4` should appear in root
 
 ## Media
 Names anonymised in gif
